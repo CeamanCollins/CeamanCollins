@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a student at Atlantic Technological University
 
 ## 🎓 About Me
 
-I'm passionate about data analytics, programming, and building practical applications. Through my studies and projects, I've developed skills in:
+I'm focused on data analytics, programming, and building practical applications. Through my studies and projects, I've developed skills in:
 
 - **Data Analysis & Visualization**: Python, Pandas, NumPy, Matplotlib, Jupyter Notebooks
 - **Web Development**: JavaScript, Flask, HTML/CSS, RESTful APIs
