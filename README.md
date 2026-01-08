@@ -71,6 +71,8 @@ Below is an overview of my public repositories and their contents:
 - **Featured Python Scripts**:
   - `mathsgame.py`: Interactive text-based game for practicing basic math skills with score tracking
   - `carddraw.py`: Poker hand analyzer using Deck of Cards API to detect special hands
+- **Featured Projects**:
+  - `electricity_rates`: Analysis of 2024 electricity usage across multiple addresses with tariff comparison to identify optimal pricing plans
 
 ## Technologies & Tools
 
