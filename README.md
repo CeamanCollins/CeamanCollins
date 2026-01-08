@@ -66,8 +66,11 @@ Below is an overview of my public repositories and their contents:
 
 ### 📝 [my_work](https://github.com/CeamanCollins/my_work)
 **General Work Repository**
-- **Language**: Jupyter Notebook
+- **Language**: Jupyter Notebook, Python
 - **Description**: Collection of various programming exercises, experiments, and learning materials
+- **Featured Python Scripts**:
+  - `mathsgame.py`: Interactive text-based game for practicing basic math skills (addition, subtraction, multiplication, division) with score tracking and accuracy feedback
+  - `carddraw.py`: Poker hand analyzer using the Deck of Cards API to draw 5 cards and detect special hands (pairs, straights, flushes, royal flush)
 
 ## 🛠️ Technologies & Tools
 
