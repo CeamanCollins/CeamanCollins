@@ -70,8 +70,8 @@ Below is an overview of my public repositories and their contents:
 - **Language**: Jupyter Notebook, Python
 - **Description**: Collection of various programming exercises, experiments, and learning materials
 - **Featured Python Scripts**:
-  - `mathsgame.py`: Interactive text-based game for practicing basic math skills with score tracking
-  - `carddraw.py`: Poker hand analyzer using Deck of Cards API to detect special hands
+  - `maths_game.py`: Interactive text-based game for practicing basic math skills with score tracking
+  - `card_draw.py`: Poker hand analyzer using Deck of Cards API to detect special hands
 - **Featured Projects**:
   - `electricity_rates`: Analysis of 2024 electricity usage across multiple addresses with tariff comparison to identify optimal pricing plans
 
