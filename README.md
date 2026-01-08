@@ -18,7 +18,7 @@ Below is an overview of my public repositories and their contents:
 
 ### [wsaa-project](https://github.com/CeamanCollins/wsaa-project)
 **Web Services and Applications Project**
-- **Language**: JavaScript, Python
+- **Language**: JavaScript, Python, HTML, CSS
 - **Description**: A RESTful API demonstration featuring a pizza ordering system with customer and order databases
 - **Features**:
   - Customer registration and pizza ordering interfaces
