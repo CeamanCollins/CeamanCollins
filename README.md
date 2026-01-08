@@ -8,7 +8,7 @@ I'm focused on data analytics, programming, and building practical applications.
 
 - **Data Analysis & Visualization**: Python, Pandas, NumPy, Matplotlib, Jupyter Notebooks
 - **Web Development**: JavaScript, Flask, HTML/CSS, RESTful APIs
-- **Statistical Analysis**: Applied statistics, data modeling, hypothesis testing
+- **Statistical Analysis**: Applied statistics, data modeling, hypothesis testing, machine learning
 - **DevOps & Infrastructure**: GitHub Actions, automation, CI/CD pipelines
 - **Database Management**: SQL, data access patterns
 
