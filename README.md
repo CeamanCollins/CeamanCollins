@@ -11,6 +11,7 @@ I'm focused on data analytics, programming, and building practical applications.
 - **Statistical Analysis**: Applied statistics, data modeling, hypothesis testing, machine learning
 - **DevOps & Infrastructure**: GitHub Actions, automation, CI/CD pipelines
 - **Database Management**: SQL, data access patterns
+- **API Usage and Creation**: Developing, consuming, and documenting APIs effectively for various applications
 
 ## Public Repositories
 
